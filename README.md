@@ -2,7 +2,7 @@
 
 Temporary repo to demonstrate problem with Chrome extension.
 
-See also http://stackoverflow.com/questions/34045969/chrome-extension-sometimes-undefined-in-background-js
+See also http://stackoverflow.com/questions/34045969/chrome-extension-sometimes-undefined-in-background-js and https://bugs.chromium.org/p/chromium/issues/detail?id=565384
 
 To duplicate the problem:
 - open chrome://extensions; load this extension (developer mode; load unpacked extension)
